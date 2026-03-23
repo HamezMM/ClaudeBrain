@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+
+# Temp files
+*.tmp
+*.bak
